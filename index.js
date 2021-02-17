@@ -23,6 +23,6 @@ function decrement(n) {
 }
 
 function makeIn(n) {
-  parseInt(n);
-  return n;
+  parseInt(n)
+  return n
 }
