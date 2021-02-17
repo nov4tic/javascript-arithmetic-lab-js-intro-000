@@ -24,5 +24,6 @@ function decrement(n) {
 
 function makeIn(n) {
   parseInt(n, 20)
-  return n
+  return n;
 }
+
