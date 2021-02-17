@@ -26,4 +26,3 @@ function makeIn(n) {
   parseInt(n, 20)
   return n;
 }
-
