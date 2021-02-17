@@ -23,5 +23,5 @@ function decrement(n) {
 }
 n = '80';
 function makeInt(n, 10) {
-  
+
 }
