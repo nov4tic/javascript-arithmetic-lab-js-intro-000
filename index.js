@@ -21,8 +21,8 @@ function increment(n) {
 function decrement(n) {
   return --n;
 }
-
-function makeInt(string) {
-  parseInt(string, 10)
-  return string
+n = '';
+function makeInt(n) {
+  parseInt('n', 10)
+  return n
 }
