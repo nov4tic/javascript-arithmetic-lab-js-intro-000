@@ -21,7 +21,8 @@ function increment(n) {
 function decrement(n) {
   return --n;
 }
-n = '80';
-function makeInt(n) {
 
+function makeInt(n) {
+  parseInt(n)
+  return n;
 }
