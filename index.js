@@ -1,5 +1,5 @@
 number 10
 
-function add() {
-  return +=
+function add5() {
+  return += 5
 }
